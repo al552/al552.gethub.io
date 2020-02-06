@@ -1,0 +1,13 @@
+body{
+    background-image: url(https://www.titania-foto.com/wp-content/uploads/2018/12/schnee-wiese-1.jpg);
+    background-size: cover;
+}
+h2{
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+img {
+    width: 15px;
+}
