@@ -9,5 +9,7 @@ h2{
 
 
 img {
-    width: 15px;
+    width:10% ;
+    height:10% ;
+ border: 10px solid rgb(58, 66, 104) ;
 }
